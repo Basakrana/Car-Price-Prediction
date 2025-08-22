@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+pandas
+numpy
+scikit-learn==1.1.3
+joblib
+Pillow
+imbalanced-learn
+XGBoost
+sys
