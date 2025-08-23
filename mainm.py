@@ -72,12 +72,13 @@ except Exception as e:
 # Sidebar Prediction
 with st.sidebar:
     st.write("# Prediction Price of Car")
-    st.info("The prediction is based on 94% accuracy ✔️")
-    if st.button("Predict Price"):
+    st.info("The Calculation is based on 94% accuracy ✔️")
+    if st.button("Calculated Price"):
         if df is not None:
             try:
                 price = np.exp(model_XGBoost.predict(df))[0]
                 formatted_price = f"{price:,.2f}"
-                st.success(f"## The Predicted Price is ₹ {formatted_price}")
+                st.success(f"## The Calculated Price is ₹ {formatted_price}")
             except Exception as e:
-                st.error(f"Prediction failed ❌: {e}")
+                st.error(f"Calculation failed ❌: {e}")
+
