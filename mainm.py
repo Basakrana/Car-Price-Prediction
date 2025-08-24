@@ -526,7 +526,6 @@ st.markdown("""
     </p>
     <br>
     <div style="background: rgba(255,255,255,0.2); padding: 1rem; border-radius: 10px; margin: 1rem 0;">
-        <h4 style="color: white; margin-bottom: 0.5rem;">👨‍💻 Developer</h4>
         <p style="color: white; font-size: 1.2rem; font-weight: bold; margin: 0;">RANA BASAK</p>
         <p style="color: rgba(255,255,255,0.8); font-size: 0.9rem; margin: 0.5rem 0 0 0;">
             Business Analyst & Data Scientist 
@@ -538,4 +537,5 @@ st.markdown("""
     </p>
 </div>
 """, unsafe_allow_html=True)
+
 
