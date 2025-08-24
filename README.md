@@ -1,4 +1,4 @@
-# test-model | [Presentation Link](https://car-price-prediction-sdko.streamlit.app/)
+# Car Price Prediction App | [Presentation Link](https://car-price-prediction-sdko.streamlit.app/)
 
 ## 🚗 Car Price Prediction
 
