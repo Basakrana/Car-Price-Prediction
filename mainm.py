@@ -529,7 +529,7 @@ st.markdown("""
         <h4 style="color: white; margin-bottom: 0.5rem;">👨‍💻 Developer</h4>
         <p style="color: white; font-size: 1.2rem; font-weight: bold; margin: 0;">RANA BASAK</p>
         <p style="color: rgba(255,255,255,0.8); font-size: 0.9rem; margin: 0.5rem 0 0 0;">
-            Machine Learning Engineer & Data Scientist
+            Business Analyst & Data Scientist 
         </p>
     </div>
     <p style="color: rgba(255,255,255,0.7); font-style: italic; margin: 0;">
@@ -538,3 +538,4 @@ st.markdown("""
     </p>
 </div>
 """, unsafe_allow_html=True)
+
